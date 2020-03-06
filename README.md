@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 ### Description
-Tic-Tac-Toe work with array wins Possibilities that hit button to start calculator
+Tic-Tac-Toe work with array wins Possibilities that hit button to start calculator.
 #
 
 <h3>Screenshots</h3>
